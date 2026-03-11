@@ -1,6 +1,6 @@
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import Navbar from './components/navbar'
-import Employees from './pages/employees'
+import Employees from './pages/Employees'
 import Attendance from './pages/Attendance'
 import Dashboard from './pages/Dashboard'
 
